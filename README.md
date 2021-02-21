@@ -17,7 +17,10 @@
 
 ## Usage 
     This can be used in any instance that you need a quick readme template.
-    
+
+## Video Walkthrough
+[Link](assets/README_Video.mov)
+
 ## License 
     # MIT License
     # MIT License
